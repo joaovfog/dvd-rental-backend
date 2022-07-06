@@ -1,0 +1,141 @@
+{
+  "rents": [
+    {
+      "id": 1,
+      "description": "Filme 1",
+      "customerEmail": "j.vitor48@outlook.com",
+      "price": "10",
+      "date": "05/07/2022"
+    },
+    {
+      "id": 2,
+      "description": "Filme 2",
+      "customerEmail": "j.vitor48@outlook.com",
+      "price": "10",
+      "date": "05/07/2022"
+    },
+    {
+      "id": 3,
+      "description": "Filme 3",
+      "customerEmail": "j.vitor48@outlook.com",
+      "price": "10",
+      "date": "05/07/2022"
+    },
+    {
+      "id": 4,
+      "description": "Filme 4",
+      "customerEmail": "j.vitor48@outlook.com",
+      "price": "10",
+      "date": "05/07/2022"
+    },
+    {
+      "id": 5,
+      "description": "Filme 5",
+      "customerEmail": "j.vitor48@outlook.com",
+      "price": "10",
+      "date": "05/07/2022"
+    },
+    {
+      "description": "Filme teste",
+      "date": "2022-07-06",
+      "price": "15",
+      "customerEmail": "j.vitor48@outlook.com",
+      "id": 6
+    },
+    {
+      "description": "Casamento Perfeito",
+      "date": "2022-07-06",
+      "price": "17",
+      "customerEmail": "laura@gmail.com",
+      "id": 7
+    },
+    {
+      "description": "aaaa",
+      "date": "2022-07-05",
+      "price": "15",
+      "customerEmail": "j.vitor48@outlook.com",
+      "id": 8
+    },
+    {
+      "description": "aaaa",
+      "date": "2022-07-05",
+      "price": "15",
+      "customerEmail": "j.vitor48@outlook.com",
+      "id": 9
+    },
+    {
+      "description": "vvvvv",
+      "date": "2022-07-30",
+      "price": "2",
+      "customerEmail": "j.vitor48@outlook.com",
+      "id": 10
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "João Vitor",
+      "email": "j.vitor48@outlook.com",
+      "cpf": "04251267060",
+      "address": "General Osório"
+    },
+    {
+      "id": 2,
+      "name": "Laura",
+      "email": "laura@outlook.com",
+      "cpf": "04251267060",
+      "address": "General Osório"
+    },
+    {
+      "id": 3,
+      "name": "Pedro",
+      "email": "pedro@outlook.com",
+      "cpf": "04251267060",
+      "address": "General Osório"
+    },
+    {
+      "id": 4,
+      "name": "Giovana",
+      "email": "giovana@outlook.com",
+      "cpf": "04251267060",
+      "address": "General Osório"
+    },
+    {
+      "id": 5,
+      "name": "Roberto",
+      "email": "roberto@outlook.com",
+      "cpf": "04251267060",
+      "address": "General Osório"
+    },
+    {
+      "name": "João Vitor Fogaça",
+      "phone": "55991095535",
+      "email": "j.vitor48@outlook.com",
+      "cpf": "123",
+      "address": "Avenida General Osório",
+      "id": 6
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "description": "Filme 1"
+    },
+    {
+      "id": 2,
+      "description": "Filme 2"
+    },
+    {
+      "id": 3,
+      "description": "Filme 3"
+    },
+    {
+      "id": 4,
+      "description": "Filme 4"
+    },
+    {
+      "id": 5,
+      "description": "Filme 5"
+    }
+  ]
+}
